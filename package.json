@@ -1,5 +1,5 @@
 {
-	"name": "@silent-client/skinview-utils",
+	"name": "sc-skinview-utils",
 	"version": "0.7.0",
 	"description": "Utilities for working with Minecraft skins",
 	"type": "module",
