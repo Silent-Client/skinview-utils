@@ -1,5 +1,5 @@
 {
-	"name": "skinview-utils",
+	"name": "@silent-client/skinview-utils",
 	"version": "0.7.0",
 	"description": "Utilities for working with Minecraft skins",
 	"type": "module",
@@ -47,6 +47,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/bs-community/skinview-utils.git"
+		"url": "git+https://github.com/Silent-Client/skinview-utils.git"
 	}
 }
